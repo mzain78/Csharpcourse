@@ -7,6 +7,8 @@ namespace firstapp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            // this is my first program
+
         }
     }
 }
